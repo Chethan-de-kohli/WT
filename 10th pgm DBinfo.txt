@@ -1,0 +1,12 @@
+table creation query:
+----------------------------
+
+CREATE TABLE `weblab`.`student` ( `usn` VARCHAR(10) NOT NULL , `name` VARCHAR(20) NOT NULL , `address` VARCHAR(20) NOT NULL ) ENGINE = InnoDB;
+
+table values
+-------------------
+
+INSERT INTO student (usn, name, address) VALUES ('17is007','cdek','bangalore');
+INSERT INTO student (usn, name, address) VALUES ('17in018','virat','india');
+INSERT INTO student (usn, name, address) VALUES ('17sa017','abdevilliers','southafrica');
+INSERT INTO student (usn, name, address) VALUES ('17in010','sachin','india');

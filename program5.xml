@@ -1,0 +1,33 @@
+<?xml-stylesheet type="text/css" href="5.css" ?>
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <h1> STUDENTS DESCRIPTION </h1>
+    </head>
+        <students>
+            <student>
+                <USN>USN : 1cd17is007</USN>
+                <name>NAME : chethan</name>
+                <college>COLLEGE : citech</college>
+                <branch>BRANCH : ise</branch>
+                <year>YEAR : 2017</year>
+                <e-mail>E-Mail : cdek@gmail.com</e-mail>
+            </student>
+            <student>
+                <USN>USN : 1cd17is018</USN>
+                <name>NAME : virat kohli</name>
+                <college>COLLEGE : ind</college>
+                <branch>BRANCH : bcci</branch>
+                <year>YEAR : 2009</year>
+                <e-mail>E-Mail : virat@gmail.com</e-mail>
+            </student>
+            <student>
+                <USN>USN : 1cd17is017</USN>
+                <name>NAME : ab de villiers</name>
+                <college>COLLEGE : south africa</college>
+                <branch>BRANCH : rsa</branch>
+                <year>YEAR : 2008</year>
+                <e-mail>E-Mail : ab@gmail.com</e-mail>
+            </student>
+    </students>
+</html>
